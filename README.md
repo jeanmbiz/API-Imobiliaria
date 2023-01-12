@@ -1,4 +1,4 @@
-# S5-19 | API - Imobiliária
+# API - Imobiliária
 
 Para inciar este projeto, é necessário instalar as dependências, que serão utilizadas nos testes. Portanto utilize o comando abaixo para instalar tais dependências:
 
