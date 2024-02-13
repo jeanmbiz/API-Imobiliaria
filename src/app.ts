@@ -8,7 +8,6 @@ import propertiesRoutes from "./routes/properties.routes";
 import categoriesRoutes from "./routes/categories.routes";
 import schedulesUsersPropertiesRoutes from "./routes/schedulesUsersProperties.routes";
 
-
 const app = express();
 
 app.use(express.json());
